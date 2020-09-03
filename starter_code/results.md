@@ -23,3 +23,5 @@ A Multi-layer Perceptron Classifier resulted in 0.796.
 A Linear Support Vector Classification resulted in 0.807.
 
 An Extra Tree Classifier resulted in 0.845.
+
+A Logistic Regression resulted in 0.807.
