@@ -25,3 +25,5 @@ A Linear Support Vector Classification resulted in 0.807.
 An Extra Tree Classifier resulted in 0.845.
 
 A Logistic Regression resulted in 0.807.
+
+A Logistic Regression cross-validation resulted in 0.802.
