@@ -9,3 +9,5 @@ A neural network of one layer with 100 units resulted in 0.863.
 A neural network of two layers with 100 units and 100 units resulted in 0.862.
 
 A neural network of three layers with 100 unites, 100 units and 50 units resulted in 0.884.
+
+A Gaussian Naive Bayes classifier resulted in 0.716.
