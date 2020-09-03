@@ -13,3 +13,7 @@ A neural network of three layers with 100 unites, 100 units and 50 units resulte
 A Gaussian Naive Bayes classifier resulted in 0.716.
 
 A Multi-layer Perceptron Classifier resulted in 0.796.
+
+A Linear Support Vector Classification resulted in 0.807.
+
+An Extra Tree Classifier resulted in 0.845.
