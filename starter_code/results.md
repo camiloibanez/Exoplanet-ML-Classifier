@@ -14,7 +14,7 @@ A neural network of three layers with 100 units, 300 units and 100 units resulte
 
 A neural network of five layers with 100 units, 300 units, 500 units, 300 units and 100 units resulted in 0.871.
 
-A neural network of seven layers with Dense:100, Dense:300, Dropout:0.2, Dense:500, Dense:300, Dropout:0.2 and Dense:100 resulted in 0.871.
+A neural network of seven layers with Dense:100, Dense:300, Dropout:0.2, Dense:500, Dense:300, Dropout:0.2 and Dense:100 resulted in 0.886.
 
 A Gaussian Naive Bayes classifier resulted in 0.716.
 
